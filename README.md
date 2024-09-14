@@ -1,5 +1,8 @@
 # Preview
 <img src="kpmi.png">
+<br>
+Tampilan Modal Ketika Pertama Kali Masuk
+<img src="modal.png">
 
 # Update
  1. Tambahan Modal Selamat Datang di Home
